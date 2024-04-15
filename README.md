@@ -18,14 +18,20 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-Developed by: santhosh kumar B
+Developed by: santhosh kumar B 
+
 RegisterNumber:212223230193
 
 Surya=int(input())
+
 Vijay=int(input())
+
 c=Surya
+
 Surya=Vijay
+
 Vijay=c
+
 print("Swapped values are:",Surya,Vijay)
 
 
