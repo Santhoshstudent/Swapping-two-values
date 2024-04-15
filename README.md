@@ -18,11 +18,23 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+Developed by: santhosh kumar B
+RegisterNumber:212223230193
+
+Surya=int(input())
+Vijay=int(input())
+c=Surya
+Surya=Vijay
+Vijay=c
+print("Swapped values are:",Surya,Vijay)
+
 
 
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
+![Screenshot 2024-04-15 134708 mlll0](https://github.com/Santhoshstudent/Swapping-two-values/assets/145446853/76ba3d6d-ea07-418f-b5f8-84ba62ca18a1)
+
 
 
 
